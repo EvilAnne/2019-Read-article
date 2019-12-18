@@ -330,7 +330,7 @@ https://github.com/fireeye/commando-vm
 - [使用ZEEK检测SSH暴力破解](https://holdmybeersecurity.com/2019/04/17/detecting-ssh-brute-forcing-with-zeek/)
 `使用了BRO检测了常见破解工具验证是否爆破成功`
 
-- [应急响应]](https://bypass007.github.io/Emergency-Response-Notes/)
+- [应急响应](https://bypass007.github.io/Emergency-Response-Notes/)
 
 - [论企业如何快速建立SDL流程](https://mp.weixin.qq.com/s/fIfMGD5HvjN_MVlVb3yriQ)
 
